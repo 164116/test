@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    while(true)
-    System.out.println("Ja Whol!");
+    //while(true)
+    System.out.println("Hellooooo");
   }
 }
